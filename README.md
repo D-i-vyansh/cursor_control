@@ -1,5 +1,7 @@
 # 🖌️ Virtual Painter using Hand Gestures
 
+## Overview
+
 This is a Python-based virtual painting application that uses hand tracking with MediaPipe and OpenCV. You can draw on the screen by using your index finger and clear the canvas with a hand gesture—no mouse or touchscreen required!
 
 ---
